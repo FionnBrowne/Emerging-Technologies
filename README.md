@@ -1,8 +1,15 @@
-# Overview of Numpy Random Package
-
+# Files:
 ***
+## Algothrim's_CSV
 
-This repository contains an overview of the numpy.random package in a jupyter notebook.
+## images
+
+## Lab-work
+
+## Sickit-Algothrims
+
+## Quantum-Computing
+
 
 ## Quick steps
 
