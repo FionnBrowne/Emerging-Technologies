@@ -77,7 +77,7 @@ data = pd.read_csv("https://raw.githubusercontent.com/FionnBrowne/Emerging-Techn
 ### You can view the notebook in static form by clicking the following image:
 - Scikit-learn
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FionnBrowne/Emerging-Technologies/HEAD?labpath=scikit-learn.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FionnBrowne/Emerging-Technologies/HEAD)
 
 - Quantum-deutsch
 
