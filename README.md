@@ -1,27 +1,54 @@
+image here
+
+# Project title here
+***
+
+# What is this project
+***
+
+## This project containts two main Jupyter notebooks,
+    1.scikit-learn
+    2.quantum-deutsch
+    
+### Notebook (1) goes over various algothrims from sickit-learn [Machine Learning in Python](https://scikit-learn.org/stable/index.html). it also demonstates some visulation of data sets and gives some examples of why large companies use this site's algothrims.
+
+### Notebook (2) covers a comparision of quantum computing and classical computing, ranging from there similarities and differences. It then coveres Deutsch's algothrim [Deutsch-Jozsa Algorithm](https://qiskit.org/textbook/ch-algorithms/deutsch-jozsa.html), & simulates this using qiskit [Open-Source Quantum Development](https://qiskit.org/).
+
+# What is it for
+***
+
+
+
+
 # Files:
 ***
 ## Algothrim's_CSV
+***
 
 ## images
+***
 
 ## Lab-work
+***
 
 ## Sickit-Algothrims
+***
 
 ## Quantum-Computing
-
+***
 
 ## Quick steps
-
-you can view the notebook in static form by clicking the following image:
+***
+### You can view the notebook in static form by clicking the following image:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FionnBrowne/numpy-random/HEAD?labpath=Numpy-random.ipynb)
 
-you can view the notebook in dynamic form by clicking the following image:
+### You can view the notebook in dynamic form by clicking the following image:
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/FionnBrowne/numpy-random/blob/main/Numpy-random.ipynb)
 
 ## How to run the notebook 
+***
 
 1. Download [Anaconda]().
 2. Download [cmder]() if on Windows.
@@ -45,4 +72,14 @@ you can view the notebook in dynamic form by clicking the following image:
 
 -> First navigate to repository location, for example: $ cd Users/NewRepo/Emerging-Technologies $
 -> To run any of the notebook just type $ jupyter lab in the current directory $, or you could run the command $ docker-compose up $ to run it through docker  
+
+# Possible fixes for issues ???
+
+### Qiskit
+![](https://qiskit.org/textbook/assets/images/logo_qiskit_purple_new.svg)
+
+I used Qiskit textbook while creating this repository. You can find the link here: [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html).
+
+# Learning outcome / conclusion
+
 
