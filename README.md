@@ -1,4 +1,4 @@
-![Quantum Computer](https://i.pinimg.com/originals/10/d8/2e/10d82ec59bfa8b611889db40b9b3e52f.jpg)
+![Quantum Computer](https://akm-img-a-in.tosshub.com/sites/dailyo/fb_feed_images/story_image/201711/quantum-computers-fb_111117054856.jpg)
 
 # Machine learning algothrims & Quantum computing
 ***
@@ -26,26 +26,47 @@
 <br>
 ## Datasets_CSV
 ***
-Contains ...
+### Contains the wine quaility dataset which is used for the sickit algothrims, you can download one of these datasets and then replace it with the wine quaility and test out more algothrims. To get some more datasets they can 
+[be found on](https://archive-beta.ics.uci.edu/ml/datasets). [Or on](https://archive.ics.uci.edu/ml/index.php). 
+### When downloading the datasets you have to save them in this file in order to accesss them. to inset the new dataset into the jupyter notebook you must enter something like this but make the path relative. Ex: `Users/NewRepoDatasets_CSV/winequality-red.csv` 
+
+```python
+# Load the data set from github url.
+data = pd.read_csv("https://raw.githubusercontent.com/FionnBrowne/Emerging-Technologies/main/Datasets_CSV/winequality-red.csv", sep=";")
+
+```
+
 <br>
-## images
+## Images
 ***
-contains ...
+### Contains the images used in the notebooks and can be edited by the user at any point.
 
 <br>
 ## Lab-work
 ***
-contains ...
+### contains all previous lab work done in this module that anyone can also glance over to get a better understanding of the process and see the development process.
 
 <br>
 ## Sickit-Algothrims
 ***
-contains ...
+### Is a jupyter notebook which contains 3 sickit algothrims that use the datasets we import to preform such tasks like liniear regression & correlation. It goes into detail about Sickit-learn and details on its use.
 
 <br>
 ## Quantum-Computing
 ***
-contains ...
+### A clear and concise comparison of quantum computing and classical computing, and an explanation of Deutsch’s algorithm with code simulating it using qiskit.
+
+<br>
+## Docker files 
+***
+### is a few files 
+1. docker-compsoe.yml -> This Compose file defines the service web: The web service uses an image that’s built from the Dockerfile in the current directory. It then binds the container and the host machine to the exposed port, 8888.
+
+2. Dockerfile -> This file builds a `Docker image`. This image contains all the dependencies the Python application requires, including Python itself.
+
+3. requirements.txt -> Contains any packages that need to be brought in through docker in order to run the notebooks. For this we only have `qiskit[visualization]`.
+
+4. .dockerignore -> Is to prevent files from being added to the initial build context that is sent to the docker daemon when you do docker build.
 
 <br>
 ## Quick steps
@@ -98,5 +119,6 @@ def f(x):
 ### I used Qiskit textbook while creating this repository. You can find the link here: [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html).
 
 # Learning outcome / conclusion
+***
 
 
