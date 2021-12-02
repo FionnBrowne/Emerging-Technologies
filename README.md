@@ -76,6 +76,11 @@ image here
 -> To run any of the notebook just type `$ jupyter lab in the current directory`, or you could run the command `$ docker-compose up` to run it through docker  
 
 # Possible fixes for issues ???
+```python
+def f(x):
+    return x*x
+
+```
 
 ### Qiskit
 ![Qiskit Logo](https://qiskit.org/textbook/assets/images/logo_qiskit_purple_new.svg)
