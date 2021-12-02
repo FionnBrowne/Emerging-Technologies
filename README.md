@@ -2,33 +2,35 @@
 ***
 ![Quantum Computer](https://akm-img-a-in.tosshub.com/sites/dailyo/fb_feed_images/story_image/201711/quantum-computers-fb_111117054856.jpg)
 
+# List of contents
+***
 
 # What is this repository
 ***
 ## This repository contains lab work from my course Emerging technologies & my project on Scikit-Learn and Quantum computing. These notebooks demonstrate my work on the python packages `pandas` and `numpy` which will be required to work with various algothrims on jupyter notebook.
-<br>
+
 ![Jupyter notebooks](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png)
-<br>
+
 ### This project containts two main [Jupyter notebooks](https://jupyter.org/):
     1.scikit-learn
     2.quantum-deutsch
     
-### Notebook (1) goes over various algothrims from sickit-learn [Machine Learning in Python](https://scikit-learn.org/stable/index.html). it also demonstates some visulation of data sets and gives some examples of why large companies use this site's algothrims.
+### `scikit-learn` goes over various algothrims from sickit-learn [Machine Learning in Python](https://scikit-learn.org/stable/index.html). it also demonstates some visulation of data sets and gives some examples of why large companies use this site's algothrims.
 
-### Notebook (2) covers a comparision of quantum computing and classical computing, ranging from there similarities and differences. It then coveres Deutsch's algothrim [Deutsch-Jozsa Algorithm](https://qiskit.org/textbook/ch-algorithms/deutsch-jozsa.html), & simulates this using qiskit [Open-Source Quantum Development](https://qiskit.org/).
-<br>
-# What is it for
+### `quantum-deutsch` covers a comparision of quantum computing and classical computing, ranging from there similarities and differences. It then coveres Deutsch's algothrim [Deutsch-Jozsa Algorithm](https://qiskit.org/textbook/ch-algorithms/deutsch-jozsa.html), & simulates this using qiskit [Open-Source Quantum Development](https://qiskit.org/).
+
+# purpose of this repo:
 ***
 ### To demonstrate a deeper understanding of machine learning and quantum computing while learning how to use juypter labs with docker in order to provide a concie and easy to understand repository .
-<br>
+
 # Files:
 ***
 ### There are a few files require for this project in the github repository some of which can be edited by the user for greater learning outcomes such as the datasets
-<br>
+
 ## Datasets_CSV
 ***
 ### Contains the wine quaility dataset which is used for the sickit algothrims, you can download one of these datasets and then replace it with the wine quaility and test out more algothrims. To get some more datasets they can 
-[be found on](https://archive-beta.ics.uci.edu/ml/datasets). [Or on](https://archive.ics.uci.edu/ml/index.php). 
+[be found on archive-beta](https://archive-beta.ics.uci.edu/ml/datasets), [Or on UCI machine learning](https://archive.ics.uci.edu/ml/index.php). 
 ### When downloading the datasets you have to save them in this file in order to accesss them. to inset the new dataset into the jupyter notebook you must enter something like this but make the path relative. Ex: `Users/NewRepoDatasets_CSV/winequality-red.csv` 
 
 ```python
@@ -37,27 +39,26 @@ data = pd.read_csv("https://raw.githubusercontent.com/FionnBrowne/Emerging-Techn
 
 ```
 
-<br>
 ## Images
 ***
 ### Contains the images used in the notebooks and can be edited by the user at any point.
 
-<br>
+
 ## Lab-work
 ***
 ### contains all previous lab work done in this module that anyone can also glance over to get a better understanding of the process and see the development process.
 
-<br>
+
 ## Sickit-Algothrims
 ***
 ### Is a jupyter notebook which contains 3 sickit algothrims that use the datasets we import to preform such tasks like liniear regression & correlation. It goes into detail about Sickit-learn and details on its use.
 
-<br>
+
 ## Quantum-Computing
 ***
 ### A clear and concise comparison of quantum computing and classical computing, and an explanation of Deutsch’s algorithm with code simulating it using qiskit.
 
-<br>
+
 ## Docker files 
 ***
 ### is a few files 
@@ -69,7 +70,7 @@ data = pd.read_csv("https://raw.githubusercontent.com/FionnBrowne/Emerging-Techn
 
 4. .dockerignore -> Is to prevent files from being added to the initial build context that is sent to the docker daemon when you do docker build.
 
-<br>
+
 ## Quick steps
 ***
 
@@ -83,10 +84,10 @@ data = pd.read_csv("https://raw.githubusercontent.com/FionnBrowne/Emerging-Techn
 
 # Requirements
 ***
-1. Github account
-2. Download [Anaconda]().
-3. Download [cmder]() if on Windows.
-4. Download [Docker]().
+1. [Github](https://github.com/) account .
+2. Download [Anaconda](https://docs.anaconda.com/anaconda/install/index.html).
+3. Download [cmder](https://cmder.net/) if on Windows.
+4. Download [Docker](https://docs.docker.com/get-docker/).
 
 # Getting ready.
 ***
