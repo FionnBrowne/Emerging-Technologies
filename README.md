@@ -3,8 +3,10 @@ image here
 # Project title here
 ***
 
-# What is this project
+# What is this repository
 ***
+## This repository contains lab work from my course Emerging technologies & my project on Scikit-Learn and Quantum computing. These notebooks demonstrate my work on the python packages `pandas` and `numpy` which will be required to work with various algothrims on jupyter notebook.
+
 
 ## This project containts two main Jupyter notebooks,
     1.scikit-learn
@@ -64,19 +66,19 @@ image here
 # Getting ready.
 -> Open cmd or the command prompt by going to the search box of windows and typing cmd.
 -> In the command prompt/cmd navigate to your desired location you wish to save the files.
--> Create a file in the selected location by typing in: $ mkdir fileNameHere$ 
--> Enter this file Ex: type $ cd Users/NewRepo ($) for cmd or $cd Users\NewRepo ($) for command prompt
--> enter the following command to clone the repository: $ git clone https://github.com/FionnBrowne/Emerging-Technologies.git $
+-> Create a file in the selected location by typing in: `$ mkdir fileNameHere` 
+-> Enter this file Ex: type `$ cd Users/NewRepo` for cmd or `$cd Users\NewRepo` for command prompt
+-> enter the following command to clone the repository: `$ git clone https://github.com/FionnBrowne/Emerging-Technologies.git`
 
 # Running the program
 
--> First navigate to repository location, for example: $ cd Users/NewRepo/Emerging-Technologies $
--> To run any of the notebook just type $ jupyter lab in the current directory $, or you could run the command $ docker-compose up $ to run it through docker  
+-> First navigate to repository location, for example: `$ cd Users/NewRepo/Emerging-Technologies`
+-> To run any of the notebook just type `$ jupyter lab in the current directory`, or you could run the command `$ docker-compose up` to run it through docker  
 
 # Possible fixes for issues ???
 
 ### Qiskit
-![](https://qiskit.org/textbook/assets/images/logo_qiskit_purple_new.svg)
+![Qiskit Logo](https://qiskit.org/textbook/assets/images/logo_qiskit_purple_new.svg)
 
 I used Qiskit textbook while creating this repository. You can find the link here: [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html).
 
