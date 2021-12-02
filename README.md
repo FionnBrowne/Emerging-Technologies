@@ -79,8 +79,10 @@ data = pd.read_csv("https://raw.githubusercontent.com/FionnBrowne/Emerging-Techn
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FionnBrowne/numpy-random/HEAD?labpath=Numpy-random.ipynb)
 
 ### You can view the notebook in dynamic form by clicking the following image:
-
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/FionnBrowne/numpy-random/blob/main/Numpy-random.ipynb)
+- Scikit-learn
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/FionnBrowne/Emerging-Technologies/blob/main/%20%20FirstOneRegression.ipynb)
+- Quantum-deutsch
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/FionnBrowne/Emerging-Technologies/blob/main/quantum-deutsch.ipynb)
 
 # Requirements
 ***
