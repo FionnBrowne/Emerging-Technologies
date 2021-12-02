@@ -1,13 +1,14 @@
-![Quantum Computer](https://akm-img-a-in.tosshub.com/sites/dailyo/fb_feed_images/story_image/201711/quantum-computers-fb_111117054856.jpg)
-
 # Machine learning algothrims & Quantum computing
 ***
+![Quantum Computer](https://akm-img-a-in.tosshub.com/sites/dailyo/fb_feed_images/story_image/201711/quantum-computers-fb_111117054856.jpg)
+
 
 # What is this repository
 ***
 ## This repository contains lab work from my course Emerging technologies & my project on Scikit-Learn and Quantum computing. These notebooks demonstrate my work on the python packages `pandas` and `numpy` which will be required to work with various algothrims on jupyter notebook.
 <br>
 ![Jupyter notebooks](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png)
+<br>
 ### This project containts two main [Jupyter notebooks](https://jupyter.org/):
     1.scikit-learn
     2.quantum-deutsch
