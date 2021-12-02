@@ -81,7 +81,7 @@ data = pd.read_csv("https://raw.githubusercontent.com/FionnBrowne/Emerging-Techn
 
 - Quantum-deutsch
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FionnBrowne/numpy-random/HEAD?labpath=Numpy-random.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FionnBrowne/Emerging-Technologies/HEAD?labpath=quantum-deutsch.ipynb)
 
 ### You can view the notebook in dynamic form by clicking the following image:
 - Scikit-learn
