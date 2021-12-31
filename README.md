@@ -88,6 +88,7 @@ data = pd.read_csv("https://raw.githubusercontent.com/FionnBrowne/Emerging-Techn
 2. Download [Anaconda](https://docs.anaconda.com/anaconda/install/index.html).
 3. Download [cmder](https://cmder.net/) if on Windows.
 4. Download [Docker](https://docs.docker.com/get-docker/).
+5. Configure your bios to allow WSL2.
 
 # Getting ready.
 ***
@@ -122,5 +123,7 @@ def f(x):
 
 # Learning outcome / conclusion
 ***
+
+##
 
 
