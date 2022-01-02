@@ -126,6 +126,6 @@ def f(x):
 # Learning outcome / conclusion
 ***
 
-##
+## Explore the possibilities of quantum computing and the ability to revolutionize the world of computing and ai by its capacity to increase its computing power exponentially. Some of the learning outcomes for this module would be to gain a deeper understanding of machine learning & Python, with some of the algothrims used to drive predictions and comparisons between data to provide us with services such as Netflix that learn your pattern of movie choice. Also, to become more familiar with jupyter, which allows us to create compact and powerful journals that can be effective in future study and building up a record such as doing work with NFA up to AI. 
 
 
