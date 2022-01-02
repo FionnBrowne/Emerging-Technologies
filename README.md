@@ -104,7 +104,9 @@ data = pd.read_csv("https://raw.githubusercontent.com/FionnBrowne/Emerging-Techn
 2. To run any of the notebooks, type `$ jupyter lab` in the current directory, or you could run the command `$ docker-compose up` to run it through Docker.
 
 # Possible fixes for issues ???
-1. 
+1. Re-download this repository and make sure your on the right gile.
+2. Check in task manager if WSL2 is enabled.
+3. delete the previous files/images and re launch the program.
 
 # Exploring
 ***
